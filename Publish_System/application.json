@@ -1,0 +1,19 @@
+{
+  "server_name": "ch.server.ReceiveHook",
+  "server_address": "localhost:8090",
+
+  "base_path": "/ReceiveHook",
+
+  "http_address": "localhost:8089",
+  "nsq_address": "127.0.0.1:4150",
+
+  "form_address": "1079221887@qq.com",
+  "receive_address": "asd471331055@vip.qq.com",
+  "user_name": "1079221887",
+  "authorization_code": "driwxgjudsdzjecj",
+
+  "consul_xs": "www.hnsdrl.com:8500",
+  "consul_sh": "47.110.39.112:8500",
+  "consul_address":[":8500"]
+}
+

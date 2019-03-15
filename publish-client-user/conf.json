@@ -1,0 +1,5 @@
+{
+  "ConsulAddr": "www.hnsdrl.com:8500",
+  "BasePath": "/publish_local_user",
+  "Port": "40101"
+}

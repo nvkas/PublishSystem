@@ -1,0 +1,12 @@
+{
+  "MysqlName": "root",
+  "MysqlHost": "localhost",
+  "MysqlPort": "3306",
+  "MysqlPassword": "123456",
+  "MysqlDatabase": "publish",
+  "PublishPort": "4110",
+  "ConsulAddr":"www.hnsdrl.com:8500",
+  "NsqAddr":"www.hnsdrl.com:4150",
+  "Ip":"192.168.0.106",
+  "BasePath":"/publish_local_user"
+}

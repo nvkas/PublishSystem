@@ -1,0 +1,8 @@
+{
+  "Addr": "192.168.0.115:8472",
+  "BasePath": "/core",
+  "ConsulAddr": "www.hnsdrl.com:8500",
+  "NsqAddr": "www.hnsdrl.com:4161",
+  "UserBasePath": "/publish_local_user",
+  "UserServicePath": "zzy.server.user"
+}
